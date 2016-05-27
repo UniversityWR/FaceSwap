@@ -2,109 +2,109 @@
 <items version="2" >
 
     <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_db64d88935e2801ca2205cccd8198fd5dd19929d/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_708bb4565474a5783efc8bd5bc14424c0d42cb00/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_44b1921a7f2c9648962a736cf3a9113bf034a18a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="8e698cfb362ef5b5aebd9a3fe745465bd85e4235">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e67093e349ebdaa55186e2f5f9e6ecc55d88d524/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_826b771563a2c5d783f929484868eae220cab37e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_3c4d2982b0ee1b9e597d90506a4414b53b18871a/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_dc8899a30628c46db782f6733a3ae5fdc8aecaa0/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="a4c59c80f124632767ffa06f65b84c1f0accc987">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1474267c5ba19046f46ab02d1e4105efa77da760/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_907f30ae4d72eda3bc13172473513b2feccd957e/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_fa6db43a9c5f6da1749c74381948d2edfdcb25d0/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_54f3b2fa7adfac6f43f475eff2a3720508a37bc1/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_e1281e6a320b263f6eb943e6c734a35377fe9e7b/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_38ba39ce2f01bba672cb726aab2a0215f57f9d6a/classes.dex" />
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_ed8cd8ed08a733aa6fa89e3d0628c66a87dd5777\classes.dex" />
     </item>
     <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.0_237ff41fd618c28c953ae262e5ae147b5b368755/classes.dex" />
-    </item>
-    <item
-        jar="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
-        <dex dex="/Users/rrizzo/Documents/Raul/Development/FaceSwap/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_40d5b17b64cc194002c038e120a29204f4302c99/classes.dex" />
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_28f71c757f208fffea50cdecf0199c28beffc70e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_e78b4781fb9bb04980c7cb28b426c3dfb6cc9c6a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_5fa0395cbe95e73d57a25cb2066a2fba3fff2bc7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_5b99f8f4f96b337911861cbaf3927e053b1f97a5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_82303850be92bc6a16fdc64aef43f8d058ffb577\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_a6590f4ab3894dd4ac6d19f5d28192e0528e2f58\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_5bfb0b019a51bbbad114519afdd7b79ee62827ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_db4e703b36eb1ce1587b0790f58ee55c5681c6a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_c96be05c36460209ee0386765025e4507d79d2c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_b451695b4bb2418f19bbf1e7e5960a1c072e9eff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_dab706fba60ba5dd7fa059b4a2bb34a1a5579b13\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_cbe8c522d0131198ef61ad4b999fb579392e77b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="13bfd818ad189f6b5953220db0bf73cd0b340df9">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0627f49380b69dc0f2779afac33f807b52266038\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="91a5de5411cf0f01a0108f79530df8cd2d169818">
+        <dex dex="C:\Users\Raul\Desktop\Raul\Desenvolvimento\Projects\FaceSwap\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a41885bf80f4f3c7fc11aeee6c5bef4e6d1a3343\classes.dex" />
     </item>
 
 </items>
